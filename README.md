@@ -1,4 +1,4 @@
-# Employee Management Record System
+# 🗂️ Employee Management Record System
 
 A desktop-based Employee Management Record (EMR) system built with **C++/CLI (Windows Forms)** and **MySQL**, developed as a 2nd year personal project using **Microsoft Visual Studio**.
 
