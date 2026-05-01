@@ -94,7 +94,7 @@ String^ conn_string = "Server=localhost;port=3306;database=db_employees;uid=root
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Open `SQLProject3.sln` in **Microsoft Visual Studio**.
