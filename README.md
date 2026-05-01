@@ -125,5 +125,4 @@ The system automatically calculates payroll breakdown from the entered **annual 
 
 ## Author
 
-Developed by Kim Charles De Guzman.
-Built using C++/CLI, Windows Forms, and MySQL.
+Developed by Kim Charles. Built using C++/CLI, Windows Forms, and MySQL.
